@@ -1,0 +1,166 @@
+nav>ul {
+    display: flex;
+}
+
+nav>ul>li {
+    text-decoration: none;
+
+}
+
+nav li {
+    list-style: none;
+    margin: 40px;
+    font-size: 25px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.log-in {
+    display: flex;
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    margin-left: 90px;
+
+
+}
+
+.log-in- {
+    display: flex;
+    background-color: rgb(179, 45, 68);
+    height: 66px;
+    width: 218px;
+    padding-top: 20px;
+}
+
+.a a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+
+}
+
+
+
+nav li:hover {
+    color: red;
+    background-color: greenyellow;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+#first-part {
+    display: flex;
+    min-height: 720px;
+}
+
+.write {
+    width: 50%;
+    position: relative;
+    left: 80px;
+}
+
+.pic {
+    height: 600px;
+    width: 700px;
+}
+
+#st {
+    background-color: blue;
+    min-height: 750px;
+}
+
+.live {
+    color: white;
+    background-color: brown;
+    text-decoration: none;
+    padding: 20px 40px;
+    font-size: 25px;
+}
+
+.player img {
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.player {
+    border: 2px solid black;
+    box-shadow: 10px 10px 10px gray;
+    height: 500px;
+    width: 350px;
+    float: left;
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+    border-image: linear-gradient(red, yellow);
+    border-image-slice: 1;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+#rd-part {
+    float: inline-start;
+
+}
+
+.imgs img {
+    height: 400px;
+    width: 600px;
+    position: relative;
+    left: 955px;
+    bottom: 259px;
+}
+
+body {
+    width: 98%;
+    margin: 0;
+}
+
+.rd-right {
+    width: 50%;
+    padding-left: 80px;
+    position: relative;
+    top: 100px;
+}
+
+.rd-right a {
+    text-decoration: none;
+    color: azure;
+    margin: 80px 0;
+    padding: 10px 30px;
+    font-size: 20px;
+
+
+}
+
+footer {
+    text-align: center;
+    font-size: 40px;
+}
+
+.op {
+    width: 400px;
+    height: 150px;
+}
+
+footer img {
+    width: 70px;
+    margin-right: 10px;
+}
